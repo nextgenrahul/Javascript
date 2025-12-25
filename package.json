@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "nodemon ./practice.js"
+  },
+  "dependencies": {
+    "node": "^24.6.0",
+    "nodemon": "^3.1.10"
+  }
+}
