@@ -125,3 +125,19 @@
 
 
 // console.log(twoSum([12, 2, 41, 1], 3))
+
+
+// const { name , age } = {
+//     name : "rahul",
+//     age : 12
+// }
+// const {length} = "rahul"
+// console.log(length)
+
+// let a = +"1.1" + +"1.1"; // '1.11.1'
+// console.log(a)
+
+
+let a = -(2 ** 2) 
+console.log(a) 
+// When ever i map this loop empty slots are skiped and index a[2] is still remain undefined
