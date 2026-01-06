@@ -139,5 +139,4 @@
 
 
 let a = -(2 ** 2) 
-console.log(a) 
-// When ever i map this loop empty slots are skiped and index a[2] is still remain undefined
+console.log(a) // When ever i map this loop empty slots are skiped and index a[2] is still remain undefined
