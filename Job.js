@@ -91,26 +91,32 @@
 // // Animal("Rahul")
 // Animal.speak
 
-class Animal{
-  constructor(name){
-    this.name = name
-  }
+// class Animal{
+//   constructor(name){
+//     this.name = name
+//   }
 
-  speak(){
-    console.log(`${this.name}, makes a sound`)
-  }
-}
+//   speak(){
+//     console.log(`${this.name}, makes a sound`)
+//   }
+// }
 
-class Dog extends Animal{
-  constructor(name, breed){
-    super(name)
-    this.breed = breed
-  }
+// class Dog extends Animal{
+//   constructor(name, breed){
+//     super(name)
+//     this.breed = breed
+//   }
 
-  bark(){
-    console.log(`${this.breed}`)
-  }
-}
+//   bark(){
+//     console.log(`${this.breed}`)
+//   }
+// }
 
-const dog = new Dog("Pitu", "dolden")
-dog.speak()
+// const dog = new Dog("Pitu", "dolden")
+// dog.speak()
+
+
+
+
+
+
